@@ -1,0 +1,41 @@
+Job Details
+Role: Frontend Developer
+(6 Months - Consultant)
+NYC - Hybrid Need Locals
+Imp Notes:
+Need Local s or near to NYC
+Need 3 Professional References for Submission with Professional Email and Contact details
+Hybrid Work
+Need to Provide Portfolio s.
+Skills Required:
+Expertise building modern real-time UI applications with JavaScript, TypeScript, HTML5, and CSS3
+Experience with modern JavaScript/UI frameworks including Svelte.js
+Experience with writing automated tests via BDD using "Playwright to foster effective, reusable, and flexible code
+Experience building single page and mobile friendly web apps using RESTful APIs
+Strong web design skills (UX, mockups, graphics)
+Knowledge of current trends and best practices in front-end architecture including performance, accessibility, and usability
+Knowledge of responsive design principles
+Knowledge of cross-browser, cross-platform, and design constraints on the web.
+Identify and produce solutions for performance problems.
+Excellent debugging skills.
+Qualifications:
+3+ years of experience of front-end web development.
+Portfolio that displays a strong understanding of modern web technologies and a practice of clean code structure and markup.
+Experience with scrum/agile development methodologies a plus.
+Experience in RESTful APIs is a plus.
+Understanding of accessibility guidelines and building user interfaces accordingly a plus.
+Responsibilities include:
+Write clean, compliant, and accessible markup.
+Create wireframes, storyboards, user flows, process flows and site maps to effectively communicate interaction and design ideas.
+Assist with the establishment and promotion of design guidelines, best practices and standards.
+Embrace emerging standards while promoting best practices.
+Work closely together with architects, PMs, back-end, and other front-end engineers to help solve challenging problems.
+Demonstrate best-practice knowledge and apply skills to deliver solutions that meet the project requirements.
+Technical research and interfacing with architects & stakeholders.
+Contribute fresh ideas and diversity of style.
+PruTech abides by the requirements of 41 CFR 60-1.4(a), 60-300.5(a) and 60-741.5(a). All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
+Employers have access to artificial intelligence language tools (“AI”) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.
+Report this job
+Dice Id: 10117953
+Position Id: 8386708
+Show Less

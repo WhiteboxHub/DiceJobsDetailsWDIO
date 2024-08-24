@@ -1,0 +1,43 @@
+Job Details
+Please send the resume to steve (dot) sundar (at) parmesoft (dot) com
+!!!VERY URGENT REQUIREMENT!!!
+Job Title: Sr. Front End Developer with React and React Native
+Location: REMOTE
+Duration; 6-12 Months+
+Summary
+As a senior software engineer on the client team, you will be part of a cutting-edge development team and creating solutions for our client. While this position is primarily a web and mobile, frontend role, you will be working with our backend developers, business analysts, designers, dev-ops engineers, and business partners to uncover and implement the best solutions for client.
+Technical Skills and Qualifications
+6+ years experience with React/React Native or Flutter
+8+ years developing high-volume, consumer-facing, client applications
+4+ years building high-quality iOS applications
+Candidate should be proficient with
+Modern JavaScript + TypeScript
+React/React Native
+Swift, SwiftUI, UIKit, Combine and the iOS toolchain
+iOS design patterns and Apple s Human Interface Guidelines
+Candidate should be familiar with
+Version control and CI/CD processes
+Unit and integration testing
+Redux, Redux Toolkit, RTK Query
+Candidate should be
+able to effectively translate product, UX, and UI requirements into code implementation.
+prepared to brainstorm with product and technical teams to creatively solve problems.
+proactive and thoughtful when engaging with teammates.
+Candidate will stand out if they...
+have experience building WatchOS apps and iOS widgets.
+can demonstrate and discuss their contributions to app(s) in App Store
+Please send the resume to steve (dot) sundar (at) parmesoft (dot) com
+Thanks & Regards,
+Steve
+Manager Recruitment s
+___________________
+Parmesoft, Inc
+2626 Cole Ave, Ste: 300
+Dallas, TX 75204
+Fax:
+Email:
+Employers have access to artificial intelligence language tools (“AI”) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.
+Report this job
+Dice Id: 90929690
+Position Id: SS_FRONTREACTJ
+Show Less

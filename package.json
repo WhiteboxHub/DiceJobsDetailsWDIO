@@ -1,0 +1,24 @@
+{
+  "name": "wdiodice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": "",
+  "dependencies": {
+    "14": "^3.1.6",
+    "@wdio/cli": "^9.0.7"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^9.0.7",
+    "@wdio/mocha-framework": "^9.0.6"
+  }
+}

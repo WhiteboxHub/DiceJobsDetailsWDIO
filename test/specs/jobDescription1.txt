@@ -1,0 +1,50 @@
+Job Details
+Job Title: Front End Developer V(Senior React Developer)
+Location: Charlotte, NC,
+Job Responsibilities
+As a Senior React Developer, you will help guide your team on its journey to create innovative digital banking products for our customers.
+Partner with business, UX design, architecture and back-end API teams to create world-class customer experiences for the online channel using Agile development methodologies
+Collaborate with other developers on solutions and mentor junior developers
+Enforce secure coding standards through peer code reviews and automated testing
+Guide development teams to review business requirements, design documents, test plans/test cases and performance testing plans
+Effectively communicate technical solutions and recommendations to senior level management
+Skill/Experience/Education
+Mandatory Skills
+Qualifications Technical Skills
+Expert level experience with browser-based technology, user interface development, responsive web design and engineering cross-browser, cross-device compliant code
+Expert level experience with HTML5 and web template engines Markdown, Handlebars, JSX, Jade
+Expert level experience with CSS3 and CSS Preprocessors - SASS, LESS, etc.
+Expert level experience with JavaScript/ES6/Typescript
+Strong working experience with creating highly-performant, optimized websites
+Strong working experience with React and other JavaScript frameworks
+Strong working experience with version control (Git/Bitbucket/GitLab) and branching strategies
+Strong working experience with command-line utilities, build tools - Webpack, Grunt, Gulp
+Experience with server-side JavaScript development - NodeJS, Express, Hapi, etc.
+Experience building web applications using AWS cloud services - S3, Lambda, Elasticache, etc.
+Experience with JavaScript testing frameworks Mocha, Jasmine, Jest, etc.
+Experience with consuming REST API using asynchronous methods
+Experience with 508 Compliance/Web Accessibility
+Enterprise exposure in defect analysis and resolution Behavioral & Communication Skills
+Excellent communication skills at all levels, from team members to senior management
+Must have the ability to work in a team within an Agile operating model
+Ability to exchange constructive and respectful feedback
+Must be able to help communicate ideas and best practices to more junior developers
+Must be able to collaborate with wider groups on standards and best practices
+Enthusiasm and a desire to be part of an innovative team
+A commitment to quality, and a desire to improve
+Desired Skills
+Nice to Have Skills
+Experience with state machines to control a UI flow - XState, etc.
+Experience with Component Testing frameworks - Cypress.
+Thanks & Regards,
+Preeti W
+US IT Recruiter
+Lucid Technologies Inc
+E:
+O : X 211
+W: ;/div>
+Employers have access to artificial intelligence language tools (“AI”) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.
+Report this job
+Dice Id: 10329198
+Position Id: 8387514
+Show Less
